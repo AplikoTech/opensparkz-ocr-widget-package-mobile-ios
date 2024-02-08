@@ -121,7 +121,7 @@ public protocol CardViewDelegate : AnyObject {
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @available(iOS 11.0, *)
 @_Concurrency.MainActor(unsafe) public class CardView : UIKit.UIView, UIKit.UITextFieldDelegate {
-  @_Concurrency.MainActor(unsafe) weak public var cardDeleagte: (any OpenSparkzFrame.CardViewDelegate)?
+  @_Concurrency.MainActor(unsafe) weak public var cardDelegate: (any OpenSparkzFrame.CardViewDelegate)?
   @objc @IBInspectable @_Concurrency.MainActor(unsafe) open var enableDefaultLoader: Swift.Bool {
     @objc get
     @objc set

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		IfpCDkUxWNmTmjIhwCU+OFR6y2w=
+		4IVZT8gBtTbEOxZqCyuDoS+V/3I=
 		</data>
 		<key>Headers/OpenSparkzFrame-Swift.h</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IZgTJlm8MqSr+vfQPxgLaAge7N8=
+		OtgxDraNXHzz7EwnPhyWbqKa1wY=
 		</data>
 		<key>Modules/OpenSparkzFrame.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		IblB4cRVIz5vCfhDGFvEEU6U0zQ=
+		XQ0PiAw19d7oUpz64bBOgyDlHxM=
 		</data>
 		<key>Modules/OpenSparkzFrame.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		dcX8VjvdpfOt7ErwcRpivHlooN4=
+		sJJt1dwncfJgjhzObvPDxvT0H9s=
 		</data>
 		<key>Modules/OpenSparkzFrame.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/OpenSparkzFrame.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		dcX8VjvdpfOt7ErwcRpivHlooN4=
+		sJJt1dwncfJgjhzObvPDxvT0H9s=
 		</data>
 		<key>Modules/OpenSparkzFrame.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QyTcIsCKBnY90ib2q2keYiwtJUQ=
+		yqHYOSQThOPic49BvA/mLM7QfmE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L1Udu94kT11VAN7Y7pM94p+RIJ8QXVPcU8Bu7sJQcEE=
+			xXS/tLlob5g048ArjBU4YXtQDiZeO2RgrUB9uRhAMis=
 			</data>
 		</dict>
 		<key>Headers/OpenSparkzFrame-Swift.h</key>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6e6nfgPuYigMjjTJXpks6t5vmJXYjtkJvugXPKEo1tg=
+			2lMFn1TgAzFTNoZS1MKfZTrvJ2PjU6RFMYFNLQ/25K4=
 			</data>
 		</dict>
 		<key>Modules/OpenSparkzFrame.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wWGZJGMhavioDJu/mGUqdahqN6cN/a3vZqnGaukE9jc=
+			IFx7eRYwNmY86fQrlDK0+5CAKOZjccOXhCTwNjYcdDQ=
 			</data>
 		</dict>
 		<key>Modules/OpenSparkzFrame.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wWGZJGMhavioDJu/mGUqdahqN6cN/a3vZqnGaukE9jc=
+			IFx7eRYwNmY86fQrlDK0+5CAKOZjccOXhCTwNjYcdDQ=
 			</data>
 		</dict>
 		<key>Modules/OpenSparkzFrame.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4J6cv3c9Baa6rbCaF8Wos2Hhc6SS/5JEXoMorhbghI8=
+			JqXCZIey2jCbyiqsNtVDEwsjR5XwgjZweetNoYIkX1g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

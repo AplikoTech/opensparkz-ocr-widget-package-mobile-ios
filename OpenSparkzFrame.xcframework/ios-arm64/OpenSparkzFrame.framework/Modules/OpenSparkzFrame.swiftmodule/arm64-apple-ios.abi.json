@@ -3132,8 +3132,8 @@
         "children": [
           {
             "kind": "Var",
-            "name": "cardDeleagte",
-            "printedName": "cardDeleagte",
+            "name": "cardDelegate",
+            "printedName": "cardDelegate",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3142,8 +3142,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15OpenSparkzFrame8CardViewC12cardDeleagteAA0dE8Delegate_pSgvp",
-            "mangledName": "$s15OpenSparkzFrame8CardViewC12cardDeleagteAA0dE8Delegate_pSgvp",
+            "usr": "s:15OpenSparkzFrame8CardViewC12cardDelegateAA0deG0_pSgvp",
+            "mangledName": "$s15OpenSparkzFrame8CardViewC12cardDelegateAA0deG0_pSgvp",
             "moduleName": "OpenSparkzFrame",
             "declAttributes": [
               "Custom",
@@ -3176,8 +3176,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15OpenSparkzFrame8CardViewC12cardDeleagteAA0dE8Delegate_pSgvg",
-                "mangledName": "$s15OpenSparkzFrame8CardViewC12cardDeleagteAA0dE8Delegate_pSgvg",
+                "usr": "s:15OpenSparkzFrame8CardViewC12cardDelegateAA0deG0_pSgvg",
+                "mangledName": "$s15OpenSparkzFrame8CardViewC12cardDelegateAA0deG0_pSgvg",
                 "moduleName": "OpenSparkzFrame",
                 "implicit": true,
                 "accessorKind": "get"
@@ -3208,8 +3208,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15OpenSparkzFrame8CardViewC12cardDeleagteAA0dE8Delegate_pSgvs",
-                "mangledName": "$s15OpenSparkzFrame8CardViewC12cardDeleagteAA0dE8Delegate_pSgvs",
+                "usr": "s:15OpenSparkzFrame8CardViewC12cardDelegateAA0deG0_pSgvs",
+                "mangledName": "$s15OpenSparkzFrame8CardViewC12cardDelegateAA0deG0_pSgvs",
                 "moduleName": "OpenSparkzFrame",
                 "implicit": true,
                 "accessorKind": "set"
@@ -3226,8 +3226,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15OpenSparkzFrame8CardViewC12cardDeleagteAA0dE8Delegate_pSgvM",
-                "mangledName": "$s15OpenSparkzFrame8CardViewC12cardDeleagteAA0dE8Delegate_pSgvM",
+                "usr": "s:15OpenSparkzFrame8CardViewC12cardDelegateAA0deG0_pSgvM",
+                "mangledName": "$s15OpenSparkzFrame8CardViewC12cardDelegateAA0deG0_pSgvM",
                 "moduleName": "OpenSparkzFrame",
                 "implicit": true,
                 "intro_iOS": "11.0",
