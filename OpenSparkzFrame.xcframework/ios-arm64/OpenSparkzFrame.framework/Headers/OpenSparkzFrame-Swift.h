@@ -314,8 +314,7 @@ SWIFT_CLASS("_TtC15OpenSparkzFrame9ApiHelper")
 SWIFT_CLASS("_TtC15OpenSparkzFrame8CardView") SWIFT_AVAILABILITY(ios,introduced=11.0)
 @interface CardView : UIView <UITextFieldDelegate>
 @property (nonatomic) IBInspectable BOOL enableDefaultLoader;
-@property (nonatomic, copy) IBInspectable NSString * _Nonnull configureGetAddCardTokenUrl;
-@property (nonatomic, copy) IBInspectable NSString * _Nonnull configureRegisterCardUrl;
+@property (nonatomic, copy) IBInspectable NSString * _Nonnull environment;
 @property (nonatomic, strong) IBInspectable UIColor * _Nonnull activeBorderColor;
 @property (nonatomic, strong) IBInspectable UIColor * _Nonnull cardBackgroundColor;
 @property (nonatomic, strong) IBInspectable UIColor * _Nonnull defaultBorderColor;

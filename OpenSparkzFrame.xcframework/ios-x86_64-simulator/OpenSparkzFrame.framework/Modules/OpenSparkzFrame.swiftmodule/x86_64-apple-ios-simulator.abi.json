@@ -2863,6 +2863,242 @@
         "printedName": "ApiHelper",
         "children": [
           {
+            "kind": "TypeDecl",
+            "name": "Environment",
+            "printedName": "Environment",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "test",
+                "printedName": "test",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(OpenSparkzFrame.ApiHelper.Environment.Type) -> OpenSparkzFrame.ApiHelper.Environment",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Environment",
+                        "printedName": "OpenSparkzFrame.ApiHelper.Environment",
+                        "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "OpenSparkzFrame.ApiHelper.Environment.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Environment",
+                            "printedName": "OpenSparkzFrame.ApiHelper.Environment",
+                            "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO4testyA2EmF",
+                "mangledName": "$s15OpenSparkzFrame9ApiHelperC11EnvironmentO4testyA2EmF",
+                "moduleName": "OpenSparkzFrame"
+              },
+              {
+                "kind": "Var",
+                "name": "australian_production",
+                "printedName": "australian_production",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(OpenSparkzFrame.ApiHelper.Environment.Type) -> OpenSparkzFrame.ApiHelper.Environment",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Environment",
+                        "printedName": "OpenSparkzFrame.ApiHelper.Environment",
+                        "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "OpenSparkzFrame.ApiHelper.Environment.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Environment",
+                            "printedName": "OpenSparkzFrame.ApiHelper.Environment",
+                            "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO21australian_productionyA2EmF",
+                "mangledName": "$s15OpenSparkzFrame9ApiHelperC11EnvironmentO21australian_productionyA2EmF",
+                "moduleName": "OpenSparkzFrame"
+              },
+              {
+                "kind": "Var",
+                "name": "united_states_production",
+                "printedName": "united_states_production",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(OpenSparkzFrame.ApiHelper.Environment.Type) -> OpenSparkzFrame.ApiHelper.Environment",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Environment",
+                        "printedName": "OpenSparkzFrame.ApiHelper.Environment",
+                        "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "OpenSparkzFrame.ApiHelper.Environment.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Environment",
+                            "printedName": "OpenSparkzFrame.ApiHelper.Environment",
+                            "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO24united_states_productionyA2EmF",
+                "mangledName": "$s15OpenSparkzFrame9ApiHelperC11EnvironmentO24united_states_productionyA2EmF",
+                "moduleName": "OpenSparkzFrame"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(rawValue:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "OpenSparkzFrame.ApiHelper.Environment?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Environment",
+                        "printedName": "OpenSparkzFrame.ApiHelper.Environment",
+                        "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO8rawValueAESgSS_tcfc",
+                "mangledName": "$s15OpenSparkzFrame9ApiHelperC11EnvironmentO8rawValueAESgSS_tcfc",
+                "moduleName": "OpenSparkzFrame",
+                "implicit": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Var",
+                "name": "rawValue",
+                "printedName": "rawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO8rawValueSSvp",
+                "mangledName": "$s15OpenSparkzFrame9ApiHelperC11EnvironmentO8rawValueSSvp",
+                "moduleName": "OpenSparkzFrame",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO8rawValueSSvg",
+                    "mangledName": "$s15OpenSparkzFrame9ApiHelperC11EnvironmentO8rawValueSSvg",
+                    "moduleName": "OpenSparkzFrame",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:15OpenSparkzFrame9ApiHelperC11EnvironmentO",
+            "mangledName": "$s15OpenSparkzFrame9ApiHelperC11EnvironmentO",
+            "moduleName": "OpenSparkzFrame",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "enumRawTypeName": "String",
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "RawRepresentable",
+                "printedName": "RawRepresentable",
+                "children": [
+                  {
+                    "kind": "TypeWitness",
+                    "name": "RawValue",
+                    "printedName": "RawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:SY",
+                "mangledName": "$sSY"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init()",
@@ -3339,8 +3575,8 @@
           },
           {
             "kind": "Var",
-            "name": "configureGetAddCardTokenUrl",
-            "printedName": "configureGetAddCardTokenUrl",
+            "name": "environment",
+            "printedName": "environment",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3350,8 +3586,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@OpenSparkzFrame@objc(cs)CardView(py)configureGetAddCardTokenUrl",
-            "mangledName": "$s15OpenSparkzFrame8CardViewC015configureGetAddD8TokenUrlSSvp",
+            "usr": "c:@M@OpenSparkzFrame@objc(cs)CardView(py)environment",
+            "mangledName": "$s15OpenSparkzFrame8CardViewC11environmentSSvp",
             "moduleName": "OpenSparkzFrame",
             "declAttributes": [
               "HasInitialValue",
@@ -3359,6 +3595,7 @@
               "HasStorage",
               "AccessControl",
               "IBInspectable",
+              "RawDocComment",
               "ObjC"
             ],
             "hasStorage": true,
@@ -3376,8 +3613,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@OpenSparkzFrame@objc(cs)CardView(im)configureGetAddCardTokenUrl",
-                "mangledName": "$s15OpenSparkzFrame8CardViewC015configureGetAddD8TokenUrlSSvg",
+                "usr": "c:@M@OpenSparkzFrame@objc(cs)CardView(im)environment",
+                "mangledName": "$s15OpenSparkzFrame8CardViewC11environmentSSvg",
                 "moduleName": "OpenSparkzFrame",
                 "implicit": true,
                 "declAttributes": [
@@ -3403,8 +3640,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@OpenSparkzFrame@objc(cs)CardView(im)setConfigureGetAddCardTokenUrl:",
-                "mangledName": "$s15OpenSparkzFrame8CardViewC015configureGetAddD8TokenUrlSSvs",
+                "usr": "c:@M@OpenSparkzFrame@objc(cs)CardView(im)setEnvironment:",
+                "mangledName": "$s15OpenSparkzFrame8CardViewC11environmentSSvs",
                 "moduleName": "OpenSparkzFrame",
                 "implicit": true,
                 "declAttributes": [
@@ -3424,107 +3661,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15OpenSparkzFrame8CardViewC015configureGetAddD8TokenUrlSSvM",
-                "mangledName": "$s15OpenSparkzFrame8CardViewC015configureGetAddD8TokenUrlSSvM",
-                "moduleName": "OpenSparkzFrame",
-                "implicit": true,
-                "intro_iOS": "11.0",
-                "declAttributes": [
-                  "Available"
-                ],
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "configureRegisterCardUrl",
-            "printedName": "configureRegisterCardUrl",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@OpenSparkzFrame@objc(cs)CardView(py)configureRegisterCardUrl",
-            "mangledName": "$s15OpenSparkzFrame8CardViewC017configureRegisterD3UrlSSvp",
-            "moduleName": "OpenSparkzFrame",
-            "declAttributes": [
-              "HasInitialValue",
-              "Custom",
-              "HasStorage",
-              "AccessControl",
-              "IBInspectable",
-              "ObjC"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@OpenSparkzFrame@objc(cs)CardView(im)configureRegisterCardUrl",
-                "mangledName": "$s15OpenSparkzFrame8CardViewC017configureRegisterD3UrlSSvg",
-                "moduleName": "OpenSparkzFrame",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@OpenSparkzFrame@objc(cs)CardView(im)setConfigureRegisterCardUrl:",
-                "mangledName": "$s15OpenSparkzFrame8CardViewC017configureRegisterD3UrlSSvs",
-                "moduleName": "OpenSparkzFrame",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:15OpenSparkzFrame8CardViewC017configureRegisterD3UrlSSvM",
-                "mangledName": "$s15OpenSparkzFrame8CardViewC017configureRegisterD3UrlSSvM",
+                "usr": "s:15OpenSparkzFrame8CardViewC11environmentSSvM",
+                "mangledName": "$s15OpenSparkzFrame8CardViewC11environmentSSvM",
                 "moduleName": "OpenSparkzFrame",
                 "implicit": true,
                 "intro_iOS": "11.0",
@@ -5141,84 +5279,175 @@
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "StringLiteral",
-      "offset": 527,
+      "offset": 202,
+      "length": 6,
+      "value": "\"TEST\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 246,
+      "length": 8,
+      "value": "\"PRODAU\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 295,
+      "length": 8,
+      "value": "\"PRODUS\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 202,
+      "length": 6,
+      "value": "\"TEST\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 246,
+      "length": 8,
+      "value": "\"PRODAU\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 295,
+      "length": 8,
+      "value": "\"PRODUS\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 385,
+      "length": 22,
+      "value": "\"card\/getcardaddtoken\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 437,
+      "length": 27,
+      "value": "\"registercard\/registercard\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 385,
+      "length": 22,
+      "value": "\"card\/getcardaddtoken\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 437,
+      "length": 27,
+      "value": "\"registercard\/registercard\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 609,
+      "length": 53,
+      "value": "\"https:\/\/playground.externalcard.opensparkz.net\/api\/\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 719,
+      "length": 38,
+      "value": "\"https:\/\/tokenapi.opensparkz.net\/api\/\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 817,
+      "length": 41,
+      "value": "\"https:\/\/tokenapi.us.opensparkz.net\/api\/\""
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1489,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "StringLiteral",
-      "offset": 558,
+      "offset": 1520,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "StringLiteral",
-      "offset": 598,
+      "offset": 1560,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "StringLiteral",
-      "offset": 654,
+      "offset": 1616,
       "length": 11,
       "value": "\"Bearer %@\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "StringLiteral",
-      "offset": 707,
+      "offset": 1669,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "Array",
-      "offset": 990,
+      "offset": 1952,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1609,
+      "offset": 2639,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1641,
+      "offset": 2671,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1681,
+      "offset": 2711,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1749,
+      "offset": 2779,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "Array",
-      "offset": 1855,
+      "offset": 2885,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/APIHelper.swift",
       "kind": "Array",
-      "offset": 2188,
+      "offset": 3218,
       "length": 2,
       "value": "[]"
     },
@@ -5442,301 +5671,266 @@
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 806,
+      "offset": 854,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "StringLiteral",
-      "offset": 925,
-      "length": 64,
-      "value": "\"https:\/\/playground.app.opensparkz.net\/api\/card\/getcardaddtoken\""
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "StringLiteral",
-      "offset": 1100,
-      "length": 78,
-      "value": "\"https:\/\/playground.externalcard.opensparkz.net\/api\/registercard\/registercard\""
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 1312,
+      "offset": 1647,
       "length": 12,
       "value": "0.9411764706"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 1333,
+      "offset": 1668,
       "length": 12,
       "value": "0.3529411765"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 1353,
+      "offset": 1688,
       "length": 12,
       "value": "0.1568627451"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1374,
+      "offset": 1709,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 1502,
+      "offset": 1837,
       "length": 12,
       "value": "0.6549019608"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 1523,
+      "offset": 1858,
       "length": 11,
       "value": "0.662745098"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 1542,
+      "offset": 1877,
       "length": 12,
       "value": "0.6705882353"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1563,
+      "offset": 1898,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 1756,
+      "offset": 2091,
       "length": 12,
       "value": "0.2470588235"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 1777,
+      "offset": 2112,
       "length": 12,
       "value": "0.3058823529"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 1797,
+      "offset": 2132,
       "length": 12,
       "value": "0.3411764706"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1818,
+      "offset": 2153,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2191,
+      "offset": 2526,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2201,
+      "offset": 2536,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2210,
+      "offset": 2545,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2220,
+      "offset": 2555,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2467,
+      "offset": 2802,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2477,
+      "offset": 2812,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2486,
+      "offset": 2821,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2496,
+      "offset": 2831,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2777,
+      "offset": 3112,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2787,
+      "offset": 3122,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2796,
+      "offset": 3131,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2806,
+      "offset": 3141,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3052,
+      "offset": 3387,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4098,
+      "offset": 4433,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4105,
+      "offset": 4440,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 4140,
+      "offset": 4475,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 4179,
+      "offset": 4514,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 4299,
+      "offset": 4634,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4348,
+      "offset": 4683,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 4397,
+      "offset": 4732,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 4621,
+      "offset": 4956,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 4630,
+      "offset": 4965,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 4682,
+      "offset": 5017,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 4696,
+      "offset": 5031,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 4907,
-      "length": 4,
-      "value": "20.0"
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "FloatLiteral",
-      "offset": 5028,
-      "length": 4,
-      "value": "40.0"
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "FloatLiteral",
-      "offset": 5042,
-      "length": 4,
-      "value": "40.0"
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "FloatLiteral",
-      "offset": 5244,
+      "offset": 5242,
       "length": 4,
       "value": "20.0"
     },
@@ -5756,101 +5950,94 @@
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5460,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5466,
-      "length": 1,
-      "value": "0"
+      "kind": "FloatLiteral",
+      "offset": 5579,
+      "length": 4,
+      "value": "20.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 5515,
+      "offset": 5698,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 5529,
+      "offset": 5712,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5795,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5801,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
+      "kind": "FloatLiteral",
+      "offset": 5850,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 5798,
+      "offset": 5864,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
+      "kind": "FloatLiteral",
+      "offset": 6133,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 5851,
+      "offset": 6186,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 6456,
+      "offset": 6791,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6557,
+      "offset": 6892,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 6680,
+      "offset": 7015,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 6756,
+      "offset": 7091,
       "length": 4,
       "value": "10.0"
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "FloatLiteral",
-      "offset": 6809,
-      "length": 4,
-      "value": "40.0"
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "FloatLiteral",
-      "offset": 6823,
-      "length": 4,
-      "value": "40.0"
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "FloatLiteral",
-      "offset": 7019,
-      "length": 4,
-      "value": "20.0"
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "FloatLiteral",
-      "offset": 7130,
-      "length": 4,
-      "value": "40.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
@@ -5861,477 +6048,505 @@
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7214,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7220,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 7269,
+      "offset": 7158,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 7283,
+      "offset": 7354,
+      "length": 4,
+      "value": "20.0"
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
+      "kind": "FloatLiteral",
+      "offset": 7465,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 7527,
+      "offset": 7479,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7549,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7555,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
+      "kind": "FloatLiteral",
+      "offset": 7604,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
+      "kind": "FloatLiteral",
+      "offset": 7618,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
+      "kind": "FloatLiteral",
+      "offset": 7862,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 7576,
+      "offset": 7911,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 8167,
+      "offset": 8502,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8260,
+      "offset": 8595,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8710,
+      "offset": 9045,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8716,
+      "offset": 9051,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 8726,
+      "offset": 9061,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "FloatLiteral",
-      "offset": 8741,
+      "offset": 9076,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8793,
+      "offset": 9128,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9072,
+      "offset": 9407,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9140,
+      "offset": 9475,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9838,
+      "offset": 10173,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9982,
+      "offset": 10317,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9986,
+      "offset": 10321,
       "length": 2,
       "value": "19"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 10138,
+      "offset": 10473,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10183,
+      "offset": 10518,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10187,
+      "offset": 10522,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10365,
+      "offset": 10700,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10369,
+      "offset": 10704,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10400,
+      "offset": 10735,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10451,
+      "offset": 10786,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10484,
+      "offset": 10819,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10535,
+      "offset": 10870,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10587,
+      "offset": 10922,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 10985,
+      "offset": 11320,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11032,
+      "offset": 11367,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11058,
+      "offset": 11393,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11084,
+      "offset": 11419,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11178,
+      "offset": 11513,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11183,
+      "offset": 11518,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11188,
+      "offset": 11523,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11195,
+      "offset": 11530,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 11276,
+      "offset": 11611,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 11681,
+      "offset": 12016,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11728,
+      "offset": 12063,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11754,
+      "offset": 12089,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11780,
+      "offset": 12115,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11875,
+      "offset": 12210,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11882,
+      "offset": 12217,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 11962,
+      "offset": 12297,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 12169,
+      "offset": 12504,
       "length": 76,
       "value": "\"bcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLKMNOPQRSTUVWXYZ1234567890+-*=(),.:!_\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12365,
+      "offset": 12700,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12510,
+      "offset": 12845,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12562,
+      "offset": 12897,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12634,
+      "offset": 12969,
       "length": 2,
       "value": "19"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12718,
+      "offset": 13053,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 12874,
+      "offset": 13209,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12887,
+      "offset": 13222,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12933,
+      "offset": 13268,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13001,
+      "offset": 13336,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13080,
+      "offset": 13415,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13308,
+      "offset": 13643,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13500,
+      "offset": 13835,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14196,
+      "offset": 14531,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14549,
+      "offset": 14884,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14852,
+      "offset": 15232,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14890,
+      "offset": 15270,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 15065,
+      "offset": 15445,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 15088,
+      "offset": 15468,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 15364,
+      "offset": 15744,
       "length": 12,
       "value": "\"cardnumber\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 15468,
+      "offset": 15848,
       "length": 8,
       "value": "\"expiry\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "StringLiteral",
-      "offset": 15548,
+      "offset": 15928,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 15658,
+      "offset": 16074,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mahendroo\/Development\/iOS\/OpenSparkzWidget\/OpenSparkzFrame\/OpenSparkzFrame\/CardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 15698,
+      "offset": 16114,
       "length": 4,
       "value": "true"
     },

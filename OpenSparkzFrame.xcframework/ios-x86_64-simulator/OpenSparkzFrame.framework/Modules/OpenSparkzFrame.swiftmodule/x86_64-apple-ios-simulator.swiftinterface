@@ -107,6 +107,16 @@ public enum ValidateType : Swift.String {
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers public class ApiHelper : ObjectiveC.NSObject {
+  public enum Environment : Swift.String {
+    case test
+    case australian_production
+    case united_states_production
+    public init?(rawValue: Swift.String)
+    public typealias RawValue = Swift.String
+    public var rawValue: Swift.String {
+      get
+    }
+  }
   @objc override dynamic public init()
   @objc deinit
 }
@@ -126,11 +136,7 @@ public protocol CardViewDelegate : AnyObject {
     @objc get
     @objc set
   }
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) open var configureGetAddCardTokenUrl: Swift.String {
-    @objc get
-    @objc set
-  }
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) open var configureRegisterCardUrl: Swift.String {
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) open var environment: Swift.String {
     @objc get
     @objc set
   }
@@ -180,3 +186,6 @@ extension OpenSparkzFrame.ValidateType : Swift.Equatable {}
 extension OpenSparkzFrame.ValidateType : Swift.Hashable {}
 @available(iOS 9.0, *)
 extension OpenSparkzFrame.ValidateType : Swift.RawRepresentable {}
+extension OpenSparkzFrame.ApiHelper.Environment : Swift.Equatable {}
+extension OpenSparkzFrame.ApiHelper.Environment : Swift.Hashable {}
+extension OpenSparkzFrame.ApiHelper.Environment : Swift.RawRepresentable {}
