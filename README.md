@@ -58,8 +58,7 @@ self.view.addSubview(cardView)
 | Name | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `enableDefaultLoader`      | `bool` | Show the loader manually |
-| `configureGetAddCardTokenUrl(<url>)`      | `string` | Lets you set the URL for the AddCardToken API |
-| `configureRegisterCardUrl(<url>)`      | `string` | Lets you set the URL for the RegisterCard API |
+| `environment(<value>)`      | `string` | Lets you set the environment for the Card APIs, Available options are `TEST`, `PRODAU` or `PRODUS`. Default is `TEST` |
 | `registerCard(accessToken: <accessToken>)`      | `string` | Will register the card to backend |
 
 #### CardView UI Properties
